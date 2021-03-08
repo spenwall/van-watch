@@ -1,0 +1,22 @@
+{
+  "name": "van-watch",
+  "version": "1.0.0",
+  "description": "To watch kijiji for mini vans and store them in a spreadsheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spenwall/van-watch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spenwall/van-watch/issues"
+  },
+  "homepage": "https://github.com/spenwall/van-watch#readme",
+  "dependencies": {
+    "kijiji-scraper": "^6.1.2"
+  }
+}
